@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **personal Portfolio**
 
-- 🌱 I’m currently learning **Python Django**
+- 🌱 I’m currently learning **Data Structure & Algorithm**
 
 - 👨‍💻 All of my projects are available at [nicknair07.io](nicknair07.io)
 
